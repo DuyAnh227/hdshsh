@@ -1,1 +1,15 @@
-dgrfdg
+ mkdir hi
+
+s3926247@SGD-93146V7 MINGW64 ~
+$ ls
+hi/
+
+s3926247@SGD-93146V7 MINGW64 ~
+$ touch sr.txt
+
+s3926247@SGD-93146V7 MINGW64 ~
+$ ls
+hi/  sr.txt
+
+s3926247@SGD-93146V7 MINGW64 ~
+$
